@@ -1,14 +1,14 @@
-#S1 {
+#Section1 {
     background-color: rgb(245, 240, 230);
 }
 
-#S2 {
+#Section2 {
     background-image: url("https://www.ucsd.edu/_resources/img/bg-orbs-1.jpg");
     background-size: contain;
     color: white;
 }
 
-#S3 {
+#Section3 {
     background-color: rgb(245, 240, 230)
 }
 
@@ -63,7 +63,7 @@
     display: block;
 }
 
-.grid-container {
+.grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 25px;
