@@ -85,6 +85,8 @@ img {
     max-width: 100%;
 }
     
+
+
 @media screen and (width < 800px) {
     menu {
         display: none;
